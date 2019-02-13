@@ -8,7 +8,7 @@ fremgangsmåde:
 	
  i starter med at klikke "fork" på dette repository dette vil lave en kopi at dette repository på jeres egen profil
  
- åben derefter det nye forked repository og kopier jeres reposirtorts url og åben VS code
+ åben derefter det nye forked repository og kopier jeres repositoryens url og åben VS code
  
  clone til jeres egen maskine
  
